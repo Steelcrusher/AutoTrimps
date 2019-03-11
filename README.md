@@ -1,12 +1,7 @@
-# AutoTrimps + Zek
-
-## Discussion / Discord Channel
-<a href="https://discord.gg/Ztcnfjr"><img src="https://png.icons8.com/color/180/discord-new-logo.png" width=48></a>
-Discord is a chat program. Come to talk about AutoTrimps, for help, or suggestions for new features : https://discord.gg/Ztcnfjr
+# AutoTrimps + Zek - Mod Steel
 
 ## Current Version (full changes below) - Ongoing Development!
-- Too many to list
-- This version has beta changes by Zek, forked from GenBTC + Kfro. Includes a lot more. Please tell me about bugs on Discord
+- This version has minor changes by Steelcrusher, forked from GenBTC + Kfro + Zek. For Zek's version go to: https://github.com/Zorn192/AutoTrimps/
 
 ## Script Installation
 **Please backup your game via export before and during use to prevent losing your save due to corruption!**
