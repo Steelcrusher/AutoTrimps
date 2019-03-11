@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AutoTrimps-Steelcrusher
-// @version      1.0-Steel
+// @version      1.0.1-Steel
 // @namespace    https://github.com/Steelcrusher/AutoTrimps
 // @updateURL    https://github.com/Steelcrusher/AutoTrimps/raw/gh-pages/.user.js
 // @description  Automate all the trimps!
