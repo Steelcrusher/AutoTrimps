@@ -273,7 +273,7 @@ function mainCleanup() {
     	game.global.start       += startBoost;
         game.global.portalTime   = game.global.start; 
         lastStart 				 = game.global.start;
-        game.settings.speed      = 0.1;
+        game.settings.speed      = 0.5;
     }
     
     //run once per portal:
