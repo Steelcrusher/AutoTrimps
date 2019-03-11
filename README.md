@@ -8,10 +8,10 @@
 
 ***Your only Option***: Install TamperMonkey (Chrome) or GreaseMonkey (Firefox)
 
-**EASY INSTALL click here: https://github.com/Zorn192/AutoTrimps/raw/gh-pages/.user.js** (the Monkeys will detect this and prompt you to install it)
+**EASY INSTALL click here: https://github.com/SteelCrusher/AutoTrimps/raw/gh-pages/.user.js** (the Monkeys will detect this and prompt you to install it)
 
 Overly detailed Chrome/TamperMonkey Instructions:
-- Open the TamperMonkey dashboard and go to utilities – in the URL box paste https://github.com/Zorn192/AutoTrimps/raw/gh-pages/.user.js and click IMPORT
+- Open the TamperMonkey dashboard and go to utilities – in the URL box paste https://github.com/SteelCrusher/AutoTrimps/raw/gh-pages/.user.js and click IMPORT
 - Alternatively, paste the contents of `.user.js` into a user script (pay attention, it says .user.js - this contains 4 lines of code that loads AutoTrimps2.js)
 - The script should automatically load everytime you go to https://trimps.github.io or the game on Kongregate
 - You will know you have the script loaded if you see the Automation and Graphs buttons in the game menu at the bottom
@@ -21,7 +21,7 @@ Overly detailed Chrome/TamperMonkey Instructions:
 
 FireFox/GreaseMonkey instructions:
 - GreaseMonkey identifies userscripts by visiting a URL that ends with ".user.js" in them:
-- Visit this URL, and Agree to install the userscript:  https://github.com/Zorn192/AutoTrimps/raw/gh-pages/.user.js
+- Visit this URL, and Agree to install the userscript:  https://github.com/SteelCrusher/AutoTrimps/raw/gh-pages/.user.js
 
 ## Easy explanation of Colors for EquipUpgrades / prestiges highlights
 - white - Upgrade is not available
